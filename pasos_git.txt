@@ -1,0 +1,13 @@
+clono el repositorio desde git hub
+una vez clonado voy al visual 
+vamos al margen donde esta para clonar y le damos ok y ponemos la url
+y en terminal
+git add .    para agregar todo lo que tenga en la carpeta
+git pull para traer toda la actualizacion
+voy a crear de branch si soy colaborador
+git branch "gaston"
+git checkout "gaston"
+ahora puedo hacer mi codigo modificacines o lo que fuese
+luego para commit voy al logo de rama que esta a la izquierda
+le doy commmit le doy el nombre del commit
+le doy al check y luego publish commit
